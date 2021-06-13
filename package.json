@@ -1,0 +1,24 @@
+{
+  "name": "@fastsave/live",
+  "version": "1.0.1",
+  "description": "@fastsave/live API for fastsave",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Max <xximaxixxyt@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Max722-dev/FastSaveLive.git"
+  },
+  "keywords": [
+    "Saving",
+    "DataBase",
+    "Live"
+  ],
+  "bugs": {
+    "url": "https://github.com/Max722-dev/FastSaveLive/issues"
+  },
+  "homepage": "https://github.com/Max722-dev/FastSaveLive#readme"
+}
